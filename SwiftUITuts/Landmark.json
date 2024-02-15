@@ -1,0 +1,27 @@
+
+[
+    {
+        "id": 1,
+        "name": "ashutosh",
+        "imageName": "img1",
+        
+        "description": "sasas",
+        "kind": "parks"
+    },
+{
+        "id": 2,
+        "name": "ashutosh1",
+        "imageName": "img2",
+        
+        "description": "sasas",
+        "kind": "parks"
+},
+{
+        "id": 3,
+        "name": "ashutosh3",
+        "imageName": "img3",
+        
+        "description": "sasas",
+        "kind": "parks"
+    }
+]
